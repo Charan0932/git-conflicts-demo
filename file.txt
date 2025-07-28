@@ -1,1 +1,1 @@
-"This line will cause conflict" 
+"This is a different change from master branch" 
