@@ -1,1 +1,1 @@
-Line from main branch
+Line combined from both branches
