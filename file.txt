@@ -1,1 +1,1 @@
-Line from feature/conflict branch
+Line combined from both branches
